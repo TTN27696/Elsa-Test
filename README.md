@@ -26,3 +26,7 @@ My submission for Elsa Test
 - Real-Time Updates: WebSockets (okhttp) - Bi-directional communication
 - REST API: Retrofit - HTTP APIs (join quiz, submit answers)
 - Data Sync: StateFlow/SharedFlow - Real-time UI updates
+
+5. My Recording
+
+📽️ [Watch the video presentation](https://drive.google.com/file/d/1RUo7p_tKiiBtbntXJYpAxB_TJ2fB1PTd/view?usp=sharing)
